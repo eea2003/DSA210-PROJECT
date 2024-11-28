@@ -19,13 +19,14 @@ As someone who listens to music almost all day long, I have always been curious 
 - **Spotify Request Data Section:** For importing and analyzing music data.
 
 ## Data Sources  
+-This project utilizes a combination of self-collected and externally sourced data to analyze the factors influencing smoking habits, particularly focusing on the role of music. By integrating these diverse data sources, the analysis aims to uncover patterns and relationships between daily smoking habits, music preferences, and external events. This multifaceted approach provides a richer understanding of behavioral triggers and trends. The data sources include:
 - **Personal Smoking Habit Data:**  
   - Daily smoking habits logged manually since October 4th.  
   - Includes date and notes such as mood and events (e.g., exams).  
 
 - **Spotify Data:**  
   - Imported using the Spotify API and Spotify Request History data. 
-  - Includes metadata like artists, genres, songs, listening time, and duration.  
+  - Includes data like artists, genres, songs, listening time, and duration.  
 
 - **External Events:**  
   - Calendar events such as exam dates and other life events to contextualize behavior.  
