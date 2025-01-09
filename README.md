@@ -12,7 +12,6 @@ As someone who listens to music almost all day long, I have always been curious 
 - **Spyder (Python IDE):** For coding and development.  
 - **Pandas:** For data cleaning, filtering, and structuring.  
 - **Matplotlib and Seaborn:** For creating visualizations to identify trends and correlations.  
-- **Scikit-learn:** For applying machine learning models to find potential predictors of smoking habits.  
 - **Numpy:** For numerical computations.  
 - **Scipy:** For statistical analysis of the relationships between variables.  
 - **Spotify API:** For importing and analyzing music data.
