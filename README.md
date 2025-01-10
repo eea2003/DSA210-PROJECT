@@ -9,7 +9,8 @@ The term project given by DSA-210 Course at SABANCI UNIVERSITY.
 As someone who listens to music almost all day long, I have always been curious about how music influences my mood and habits. Since October 4th, I have been tracking my daily smoking habits. The motivation behind this project is to explore whether music genres, artists, or external factors such as exam dates impact my smoking behavior. By analyzing this data, I aim to uncover patterns and understand the triggers that influence my smoking habits with a specific focus on the role of music.
 
 ## Tools  
-- **Spyder (Python IDE):** For coding and development.  
+- **Spyder (Python IDE):** Structuring the data sets.
+- **Colabratory (Python IDE):** For coding and development.  
 - **Pandas:** For data cleaning, filtering, and structuring.  
 - **Matplotlib and Seaborn:** For creating visualizations to identify trends and correlations.  
 - **Numpy:** For numerical computations.  
