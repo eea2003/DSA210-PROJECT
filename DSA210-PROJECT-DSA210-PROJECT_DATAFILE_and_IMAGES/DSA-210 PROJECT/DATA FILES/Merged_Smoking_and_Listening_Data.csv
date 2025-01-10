@@ -1,0 +1,89 @@
+,Date,Daily_Listening_Count,Day_of_Week,Cigarettes_Smoked,Special_Day_Flag,Special_Day_Type
+0,2024-10-04,76.0,Friday,25.0,False,
+1,2024-10-05,70.0,Saturday,31.0,False,
+2,2024-10-06,180.0,Sunday,28.0,False,
+3,2024-10-07,62.0,Monday,33.0,False,
+4,2024-10-08,17.0,Tuesday,24.0,False,
+5,2024-10-09,55.0,Wednesday,26.0,False,
+6,2024-10-10,32.0,Thursday,26.0,False,
+7,2024-10-11,153.0,Friday,41.0,False,
+8,2024-10-12,76.0,Saturday,29.0,False,
+9,2024-10-13,72.0,Sunday,56.0,True,Birthday
+10,2024-10-14,55.0,Monday,28.0,False,
+11,2024-10-15,140.0,Tuesday,27.0,False,
+12,2024-10-16,76.0,Wednesday,21.0,False,
+13,2024-10-17,62.0,Thursday,26.0,False,
+14,2024-10-18,89.0,Friday,26.0,False,
+15,2024-10-19,112.0,Saturday,24.0,False,
+16,2024-10-20,143.0,Sunday,52.0,True,Birthday 
+17,2024-10-21,138.0,Monday,30.0,False,
+18,2024-10-22,107.0,Tuesday,32.0,False,
+19,2024-10-23,78.0,Wednesday,23.0,False,
+20,2024-10-24,76.0,Thursday,21.0,False,
+21,2024-10-25,107.0,Friday,28.0,False,
+22,2024-10-26,48.0,Saturday,18.0,False,
+23,2024-10-27,115.0,Sunday,19.0,False,
+24,2024-10-28,59.0,Monday,29.0,False,
+25,2024-10-29,109.0,Tuesday,40.0,False,
+26,2024-10-30,184.0,Wednesday,45.0,False,
+27,2024-10-31,55.0,Thursday,43.0,True, Exam
+28,2024-11-01,121.0,Friday,16.0,False,
+29,2024-11-02,335.0,Saturday,67.0,True, Halloween
+30,2024-11-03,45.0,Sunday,25.0,False,
+31,2024-11-04,63.0,Monday,21.0,False,
+32,2024-11-05,43.0,Tuesday,17.0,False,
+33,2024-11-06,92.0,Wednesday,23.0,True, Preparation
+34,2024-11-07,90.0,Thursday,35.0,True, Preparation
+35,2024-11-08,138.0,Friday,39.0,True, Preparation
+36,2024-11-09,105.0,Saturday,31.0,True, Preparation
+37,2024-11-10,134.0,Sunday,39.0,True, Exam
+38,2024-11-11,101.0,Monday,43.0,True, Preparation
+39,2024-11-12,116.0,Tuesday,35.0,True, Exam
+40,2024-11-13,140.0,Wednesday,34.0,True, Preparation
+41,2024-11-14,103.0,Thursday,25.0,True, Preparation
+42,2024-11-15,26.0,Friday,20.0,True, Exam 
+43,2024-11-16,259.0,Saturday,48.0,False,
+44,2024-11-17,45.0,Sunday,23.0,False,
+45,2024-11-18,40.0,Monday,30.0,False,
+46,2024-11-19,33.0,Tuesday,23.0,False,
+47,2024-11-20,70.0,Wednesday,36.0,True, Preparation
+48,2024-11-21,64.0,Thursday,34.0,True, Preparation
+49,2024-11-22,184.0,Friday,46.0,True, Preparation
+50,2024-11-23,109.0,Saturday,32.0,True, Exam 
+51,2024-11-24,69.0,Sunday,12.0,False,
+52,2024-11-25,100.0,Monday,2.0,True,Christmas 
+53,2024-11-26,59.0,Tuesday,35.0,False,
+54,2024-11-27,100.0,Wednesday,20.0,False,
+55,2024-11-28,35.0,Thursday,29.0,False,
+56,2024-11-29,125.0,Friday,29.0,False,
+57,2024-11-30,21.0,Saturday,32.0,False,
+58,2024-12-01,,,22.0,False,
+59,2024-12-02,,,51.0,True,Birthday
+60,2024-12-03,,,31.0,False,
+61,2024-12-04,,,29.0,False,
+62,2024-12-05,,,29.0,False,
+63,2024-12-06,,,30.0,False,
+64,2024-12-07,,,25.0,False,
+65,2024-12-08,,,27.0,False,
+66,2024-12-09,,,21.0,False,
+67,2024-12-10,,,24.0,False,
+68,2024-12-11,,,37.0,False,
+69,2024-12-12,,,30.0,True, Preparation
+70,2024-12-13,,,22.0,True, Preparation
+71,2024-12-14,,,31.0,True, Preparation
+72,2024-12-15,,,33.0,True, Preparation
+73,2024-12-16,,,32.0,True, Preparation
+74,2024-12-17,,,34.0,True, Exam
+75,2024-12-18,,,14.0,False,
+76,2024-12-19,,,33.0,False,
+77,2024-12-20,,,30.0,False,
+78,2024-12-21,,,32.0,False,
+79,2024-12-22,,,37.0,False,
+80,2024-12-23,,,27.0,False,
+81,2024-12-24,,,24.0,False,
+82,2024-12-25,,,24.0,False,
+83,2024-12-26,,,24.0,False,
+84,2024-12-27,,,28.0,False,
+85,2024-12-28,,,30.0,False,
+86,2024-12-29,,,29.0,False,
+87,2024-12-30,,,32.0,False,

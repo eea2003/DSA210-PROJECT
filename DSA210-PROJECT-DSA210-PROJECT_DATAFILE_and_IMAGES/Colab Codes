@@ -1,0 +1,5 @@
+To execute Smoking_Data_Analysis.ipynb code , you should use the Smoking_Habits_Data__Year_2024_.csv file as your primary data source for analyzing smoking habits. 
+This file contains the essential data about daily cigarette consumption, along with any additional notes or events that may correlate with smoking patterns.
+
+To execute listening_data_visualizedand_merged_with_smoking.ipynb code,  you should use the Daily_Listening_Counts.csv. and Merged_Smoking_and_Listening_Data.csv file
+as your primary data source for analyzing music patterns and merged analysis for smoking and music affect.
